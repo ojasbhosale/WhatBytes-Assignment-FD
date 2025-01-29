@@ -2,7 +2,7 @@
 
 A modern, responsive dashboard built with Next.js and Tailwind CSS for displaying and managing skill assessment results. Features include real-time updates, animated charts, and a mobile-responsive design.
 
-![Dashboard Preview](./public/preview.png)
+- Live Demo: https://whatbytes-fdassignment-ojasbhosale.netlify.app/
 
 ## 🚀 Features
 
