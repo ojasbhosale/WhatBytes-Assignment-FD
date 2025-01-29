@@ -28,5 +28,33 @@ A modern, responsive dashboard built with Next.js and Tailwind CSS for displayin
 ```bash
 git clone https://github.com/yourusername/skill-dashboard.git
 cd skill-dashboard
+```
 
-1. Install dependencies:
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Create necessary image assets:
+```bash
+Add `html5.svg` to `public/images/`
+Add `profile.jpg` to `public/images/`
+```
+
+4. Start the development server:
+```bash
+npm run dev
+```
+
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+
+## 📚 Tech Stack
+
+- **Framework**: Next.js 14
+- **Styling**: Tailwind CSS
+- **Charts**: Chart.js with react-chartjs-2
+- **Animations**: Framer Motion
+- **Form Handling**: React Hook Form
+- **Icons**: Lucide React
+
